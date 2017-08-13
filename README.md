@@ -1,4 +1,4 @@
-![Nukular](http://images.cinefacts.de/Homer_Nukular_bearbeitet-1.jpg)
+![Nukular](http://www.meme-generator.de/media/created/h00pio.gif)
 
 [![Build Status](https://travis-ci.org/atom/atom.svg?branch=master)](https://travis-ci.org/atom/atom)
 [![Dependency Status](https://david-dm.org/atom/atom.svg)](https://david-dm.org/atom/atom)
